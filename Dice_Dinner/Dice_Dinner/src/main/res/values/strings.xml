@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">骰子食堂</string>
+    <string name="hello_world">唉, 今晚吃什麼</string>
+    <string name="Prompt">看見什麼吃什麼!</string>>
+    <string name="action_settings">Settings</string>
+
+</resources>
